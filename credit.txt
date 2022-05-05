@@ -1,0 +1,11 @@
+# Font file credit:
+- https://www.dafont.com/pixelmania.font?text=pixel
+
+# Art assets credit:
+- https://ansimuz.itch.io/
+
+# Sound asset credit:
+- https://opengameart.org/content/somewhere-in-the-elevator
+
+# Based on the tutorials from Stanislav Petrov
+- https://github.com/StanislavPetrovV
